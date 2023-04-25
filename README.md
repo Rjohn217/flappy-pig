@@ -4,7 +4,7 @@ Welcome to the Flappy Pig Demo, a fun and playful spin-off of the classic Flappy
 
 ## Description
 
-This is a demo project for a freelance opportunity to create a game for an online website to interact with their community. The game is built using JavaScript and HTML5 canvas.
+This is a demo project for a freelance opportunity to create a game for an online website to interact with their community. The game is built using JavaScript, HTML5 canvas and CSS.
 
 ## Getting Started
 
